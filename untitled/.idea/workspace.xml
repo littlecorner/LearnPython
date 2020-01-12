@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8d026b2-d689-4496-8769-95745397fa5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W5p4CYxD1HYsVFcI6HYXxwmJ7x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\孔灿灿\PycharmProjects\untitled\chapter06\6.5继承" />
+      <recent name="C:\Users\孔灿灿\PycharmProjects\untitled\chapter05\buss" />
+      <recent name="C:\Users\孔灿灿\PycharmProjects\untitled\chapter05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.11.3requests库">
+    <configuration name="11.2.1urllib.request.urlopen函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kongcancan\PycharmProjects\untitled\chapter11\11.2.1urllib.request.urlopen函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.2.2urllib.request.Request类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kongcancan\PycharmProjects\untitled\chapter11\11.2.2urllib.request.Request类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.2.3urllib.error异常处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kongcancan\PycharmProjects\untitled\chapter11\11.2.3urllib.error异常处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.3requests库" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter11/11.3requests库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.4CSV文件操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter09/9.4CSV文件操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.11.3requests库" />
+        <item itemvalue="Python.11.2.3urllib.error异常处理模块" />
+        <item itemvalue="Python.11.2.2urllib.request.Request类" />
+        <item itemvalue="Python.11.2.1urllib.request.urlopen函数" />
+        <item itemvalue="Python.9.4CSV文件操作" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8d026b2-d689-4496-8769-95745397fa5d" name="Default Changelist" comment="" />
+      <created>1578449127673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578449127673</updated>
+      <workItem from="1578449163003" duration="1488000" />
+      <workItem from="1578455014807" duration="19742000" />
+      <workItem from="1578531493389" duration="28882000" />
+      <workItem from="1578618836010" duration="12487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578535690477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578535690477" />
+    <state width="1899" height="378" key="GridCell.Tab.0.bottom" timestamp="1578832892546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578655057786" />
+    <state width="1899" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578832892546" />
+    <state width="1899" height="378" key="GridCell.Tab.0.center" timestamp="1578832892546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578655057786" />
+    <state width="1899" height="378" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578832892546" />
+    <state width="1899" height="378" key="GridCell.Tab.0.left" timestamp="1578832892546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578655057786" />
+    <state width="1899" height="378" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578832892546" />
+    <state width="1899" height="378" key="GridCell.Tab.0.right" timestamp="1578832892546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578655057786" />
+    <state width="1899" height="378" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578832892546" />
+    <state x="208" y="1" key="SettingsEditor" timestamp="1578620197266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="208" y="1" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578620197266" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1578618844684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578618844684" />
+    <state x="0" y="0" width="786" height="728" key="find.popup" timestamp="1578474010948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="786" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1578474010948" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578540955115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578540955115" />
+  </component>
+</project>
